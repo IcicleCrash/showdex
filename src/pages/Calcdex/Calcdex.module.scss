@@ -69,12 +69,12 @@
   &.dark {
     &::before {
       // background-color: color.alpha(colors.$showdown-background-dark, 0.85);
-      background-color: color.alpha(#121212, 0.85);
+      background-color: color.alpha(#e2a1a1, 0.85);
     }
 
     &.overlay::before {
       // background-color: color.alpha(colors.$black, 0.9);
-      background-color: #121212;
+      background-color: #e68e8e;
     }
   }
 }
